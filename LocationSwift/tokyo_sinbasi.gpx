@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2016 Google, ZENRIN</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/東京駅（東京）/新橋駅（東京）/@35.6748326,139.7518889,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7662469!2d35.681298!1m5!1m1!1s0x60188be9d1ae11e1:0x5851f1d35efc45b9!2m2!1d139.7584123!2d35.6661322!3e0?hl=en</url-->
+    <time>2016-09-30T22:33:21Z</time>
+  </metadata>
+  <name>東京駅（東京） to 新橋駅（東京）</name>
+  <number>1</number>
+  <wpt lat="35.6814879" lon="139.7655737">
+    <name>TP001</name>
+  </wpt>
+  <wpt lat="35.68197" lon="139.76576">
+    <name>TP002</name>
+  </wpt>
+  <wpt lat="35.68204" lon="139.76581">
+    <name>TP003</name>
+  </wpt>
+  <wpt lat="35.68211" lon="139.76587">
+    <name>TP004</name>
+  </wpt>
+  <wpt lat="35.68219" lon="139.76589">
+    <name>TP005</name>
+  </wpt>
+  <wpt lat="35.68227" lon="139.76586">
+    <name>TP006</name>
+  </wpt>
+  <wpt lat="35.68238" lon="139.76581">
+    <name>TP007</name>
+  </wpt>
+  <wpt lat="35.68246" lon="139.76582">
+    <name>TP008</name>
+  </wpt>
+  <wpt lat="35.6827" lon="139.76591">
+    <name>TP009</name>
+  </wpt>
+  <wpt lat="35.6827006" lon="139.7659145">
+    <name>TP010</name>
+  </wpt>
+  <wpt lat="35.68285" lon="139.76532">
+    <name>TP011</name>
+  </wpt>
+  <wpt lat="35.68294" lon="139.7651">
+    <name>TP012</name>
+  </wpt>
+  <wpt lat="35.68304" lon="139.76487">
+    <name>TP013</name>
+  </wpt>
+  <wpt lat="35.68316" lon="139.76441">
+    <name>TP014</name>
+  </wpt>
+  <wpt lat="35.68327" lon="139.76394">
+    <name>TP015</name>
+  </wpt>
+  <wpt lat="35.68353" lon="139.76273">
+    <name>TP016</name>
+  </wpt>
+  <wpt lat="35.6835337" lon="139.762733">
+    <name>TP017</name>
+  </wpt>
+  <wpt lat="35.68338" lon="139.76268">
+    <name>TP018</name>
+  </wpt>
+  <wpt lat="35.68297" lon="139.76256">
+    <name>TP019</name>
+  </wpt>
+  <wpt lat="35.68239" lon="139.76237">
+    <name>TP020</name>
+  </wpt>
+  <wpt lat="35.68199" lon="139.76226">
+    <name>TP021</name>
+  </wpt>
+  <wpt lat="35.68141" lon="139.76205">
+    <name>TP022</name>
+  </wpt>
+  <wpt lat="35.68089" lon="139.76186">
+    <name>TP023</name>
+  </wpt>
+  <wpt lat="35.67982" lon="139.76148">
+    <name>TP024</name>
+  </wpt>
+  <wpt lat="35.67855" lon="139.76107">
+    <name>TP025</name>
+  </wpt>
+  <wpt lat="35.67843" lon="139.76103">
+    <name>TP026</name>
+  </wpt>
+  <wpt lat="35.67739" lon="139.76066">
+    <name>TP027</name>
+  </wpt>
+  <wpt lat="35.67636" lon="139.76031">
+    <name>TP028</name>
+  </wpt>
+  <wpt lat="35.67557" lon="139.76004">
+    <name>TP029</name>
+  </wpt>
+  <wpt lat="35.67532" lon="139.75994">
+    <name>TP030</name>
+  </wpt>
+  <wpt lat="35.67516" lon="139.75985">
+    <name>TP031</name>
+  </wpt>
+  <wpt lat="35.675" lon="139.75968">
+    <name>TP032</name>
+  </wpt>
+  <wpt lat="35.6749977" lon="139.7596764">
+    <name>TP033</name>
+  </wpt>
+  <wpt lat="35.67489" lon="139.75956">
+    <name>TP034</name>
+  </wpt>
+  <wpt lat="35.67458" lon="139.75924">
+    <name>TP035</name>
+  </wpt>
+  <wpt lat="35.6745811" lon="139.7592448">
+    <name>TP036</name>
+  </wpt>
+  <wpt lat="35.67385" lon="139.76024">
+    <name>TP037</name>
+  </wpt>
+  <wpt lat="35.6738498" lon="139.7602448">
+    <name>TP038</name>
+  </wpt>
+  <wpt lat="35.67365" lon="139.76002">
+    <name>TP039</name>
+  </wpt>
+  <wpt lat="35.67358" lon="139.75993">
+    <name>TP040</name>
+  </wpt>
+  <wpt lat="35.67352" lon="139.75987">
+    <name>TP041</name>
+  </wpt>
+  <wpt lat="35.67298" lon="139.75956">
+    <name>TP042</name>
+  </wpt>
+  <wpt lat="35.67247" lon="139.75929">
+    <name>TP043</name>
+  </wpt>
+  <wpt lat="35.6724702" lon="139.7592902">
+    <name>TP044</name>
+  </wpt>
+  <wpt lat="35.6722" lon="139.76002">
+    <name>TP045</name>
+  </wpt>
+  <wpt lat="35.6722016" lon="139.7600176">
+    <name>TP046</name>
+  </wpt>
+  <wpt lat="35.67118" lon="139.75943">
+    <name>TP047</name>
+  </wpt>
+  <wpt lat="35.66991" lon="139.75871">
+    <name>TP048</name>
+  </wpt>
+  <wpt lat="35.66969" lon="139.75859">
+    <name>TP049</name>
+  </wpt>
+  <wpt lat="35.66962" lon="139.75851">
+    <name>TP050</name>
+  </wpt>
+  <wpt lat="35.66954" lon="139.75842">
+    <name>TP051</name>
+  </wpt>
+  <wpt lat="35.66874" lon="139.75801">
+    <name>TP052</name>
+  </wpt>
+  <wpt lat="35.66897" lon="139.7573">
+    <name>TP053</name>
+  </wpt>
+  <wpt lat="35.66906" lon="139.75696">
+    <name>TP054</name>
+  </wpt>
+  <wpt lat="35.669063" lon="139.756961">
+    <name>TP055</name>
+  </wpt>
+  <wpt lat="35.66868" lon="139.75677">
+    <name>TP056</name>
+  </wpt>
+  <wpt lat="35.66843" lon="139.75663">
+    <name>TP057</name>
+  </wpt>
+  <wpt lat="35.6684337" lon="139.7566315">
+    <name>TP058</name>
+  </wpt>
+  <wpt lat="35.66826" lon="139.7572">
+    <name>TP059</name>
+  </wpt>
+  <wpt lat="35.66817" lon="139.75745">
+    <name>TP060</name>
+  </wpt>
+  <wpt lat="35.66808" lon="139.75771">
+    <name>TP061</name>
+  </wpt>
+  <wpt lat="35.66777" lon="139.75756">
+    <name>TP062</name>
+  </wpt>
+  <wpt lat="35.6677671" lon="139.7575632">
+    <name>TP063</name>
+  </wpt>
+  <wpt lat="35.66767" lon="139.75786">
+    <name>TP064</name>
+  </wpt>
+  <wpt lat="35.66747" lon="139.7585">
+    <name>TP065</name>
+  </wpt>
+  <wpt lat="35.6674708" lon="139.7584951">
+    <name>TP066</name>
+  </wpt>
+  <wpt lat="35.6674" lon="139.75851">
+    <name>TP067</name>
+  </wpt>
+  <wpt lat="35.66733" lon="139.75853">
+    <name>TP068</name>
+  </wpt>
+  <wpt lat="35.66685" lon="139.75863">
+    <name>TP069</name>
+  </wpt>
+  <wpt lat="35.6668506" lon="139.7586315">
+    <name>TP070</name>
+  </wpt>
+  <wpt lat="35.66667" lon="139.75876">
+    <name>TP071</name>
+  </wpt>
+  <wpt lat="35.66657" lon="139.75881">
+    <name>TP072</name>
+  </wpt>
+  <wpt lat="35.66644" lon="139.75884">
+    <name>TP073</name>
+  </wpt>
+  <wpt lat="35.66626" lon="139.75886">
+    <name>TP074</name>
+  </wpt>
+  <wpt lat="35.66625" lon="139.75876">
+    <name>TP075</name>
+  </wpt>
+  <wpt lat="35.6662487" lon="139.7587565">
+    <name>TP076</name>
+  </wpt>
+</gpx>
