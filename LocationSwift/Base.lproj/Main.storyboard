@@ -20,11 +20,14 @@
                         <subviews>
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="St9-ke-2nd"/>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Ji-ds-x6h">
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="SKj-pR-tIf"/>
                                     <constraint firstAttribute="width" constant="60" id="ljl-E8-2W6"/>
                                 </constraints>
-                                <state key="normal" title="現在地"/>
+                                <state key="normal" title="現在地">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
                                 <connections>
                                     <action selector="tapMayLocation:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DFU-ft-CWN"/>
                                 </connections>
